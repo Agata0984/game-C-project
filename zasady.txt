@@ -1,0 +1,8 @@
+Zasady gry:
+
+Gra przeznaczona jest dla dwóch graczy, którzy mają znaki "o" i "x". 
+Gracz może wybrać kolor swojego znaku klikając przycisk "kolor o" lub "kolor x". Gracze powinni wybrać rozmiar planszy klikając na jeden z przycisków "6x6", "7x7" lub "10x10", oraz poziom trudności 4 lub 5. Domyślnie ustawione są rozmiar 7x7 i trudność 4. 
+Gra polega na ustawieniu 4 lub 5 (w zależności od poziomu gry) swoich znaków w jednej linii, tzn. poziomo, pionowo lub po skosie. 
+Gracze układają znaki na zmianę, a grę zaczyna "x". Znak można dać w najniższym rzędzie, lub na pierwszym pustym miejscu nad postawionym znakiem. 
+Dodatkowo, gdy znak gracza jest w najniższym rzędzie może on wykonać ruch poprzez kliknięcie na niego, który spowoduje zabranie znaku, przeniesienie wszystkich znaków, które były wyżej o jedno miejsce niżej, położenie znaku nad nie i dołożenie jeszcze jednego znaku gracza na samą górę. Ruch ten może zostać wykonany tylko jeśli w danej kolumnie są puste miejsca. Po wykonaniu tego ruchu jeśli zostały ułożone 4/5 znaków w jednej linii wygrywa gracz, którego "wygrana" linia jest niżej. 
+W przypadku zapełnienia całej planszy bez wygranej następuje remis.
